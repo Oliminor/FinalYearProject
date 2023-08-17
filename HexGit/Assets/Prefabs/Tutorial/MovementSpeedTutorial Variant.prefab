@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8011545717985501785
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3980911692849109714, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: tutorialText
+      value: 'Hold LSHIFT to run.
+
+        Toggle walking with LCTRL.'
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.517
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.772
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 92.827
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9840146
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.16694984
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.051779546
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.03408838
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 19.396
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -5.507
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162113781307092819, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 3.026
+      objectReference: {fileID: 0}
+    - target: {fileID: 7507254447220553193, guid: 510882a2450886541a9afd0cb72b9ed3,
+        type: 3}
+      propertyPath: m_Name
+      value: MovementSpeedTutorial
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 510882a2450886541a9afd0cb72b9ed3, type: 3}

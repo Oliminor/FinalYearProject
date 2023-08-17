@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2543017363062351449
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da692e001514ec24dbc4cca1949ff7e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 12
+  hdPluginSubTargetMaterialVersions:
+    m_Keys: []
+    m_Values: 
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: WaterfallMat
+  m_Shader: {fileID: -6465566751694194690, guid: a185c598571ac8345a4362d7de96a64e,
+    type: 3}
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  - _DISABLE_DECALS
+  - _DISABLE_SSR_TRANSPARENT
+  - _DOUBLESIDED_ON
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    MotionVector: User
+    RenderType: TransparentCutout
+  disabledShaderPasses:
+  - TransparentDepthPrepass
+  - TransparentDepthPostpass
+  - TransparentBackface
+  - RayTracingPrepass
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NoiseTexture:
+        m_Texture: {fileID: 2800000, guid: 19ee41195560d094b9f40eb756d9105a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1ebd12f4608340f0b772c09d317fd849_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 8b10e6a9102159c4f8e941cfc3a8b8f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_317c25b4dc7c48c6ba6f13d1718b31d3_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 8b10e6a9102159c4f8e941cfc3a8b8f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d9d073fa172f4da2bc47879c7d1ec95b_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ec9d8eaa268c4018a7922b1f0867a3e4_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AddPrecomputedVelocity: 0
+    - _AlphaClip: 0
+    - _AlphaCutoffEnable: 1
+    - _AlphaDstBlend: 0
+    - _AlphaSrcBlend: 1
+    - _AlphaToMask: 0
+    - _AlphaToMaskInspectorValue: 0
+    - _BaseCellDensity: 2.96
+    - _BaseColorMultip: 3
+    - _BaseStrength: 0.8
+    - _BlendMode: 0
+    - _ConservativeDepthOffsetEnable: 0
+    - _CullMode: 0
+    - _CullModeForward: 0
+    - _DepthOffsetEnable: 0
+    - _Divide: 0.49
+    - _DoubleSidedEnable: 1
+    - _DoubleSidedGIMode: 0
+    - _DoubleSidedNormalMode: 2
+    - _DstBlend: 0
+    - _EnableBlendModePreserveSpecularLighting: 1
+    - _EnableFogOnTransparent: 1
+    - _Float1: 0.45
+    - _Float2: 0.42
+    - _FoamCellDensity: 8.93
+    - _FoamColorMultip: 1500
+    - _FoamPower: 1
+    - _FoamStrength: 0.7
+    - _Metallic: 0.2
+    - _OpaqueCullMode: 2
+    - _RayTracing: 0
+    - _ReceivesSSR: 1
+    - _ReceivesSSRTransparent: 0
+    - _RefractionModel: 0
+    - _RenderQueueType: 1
+    - _RequireSplitLighting: 0
+    - _Smoothness: 0.1
+    - _SrcBlend: 1
+    - _StencilRef: 0
+    - _StencilRefDepth: 8
+    - _StencilRefDistortionVec: 4
+    - _StencilRefGBuffer: 10
+    - _StencilRefMV: 40
+    - _StencilWriteMask: 6
+    - _StencilWriteMaskDepth: 8
+    - _StencilWriteMaskDistortionVec: 4
+    - _StencilWriteMaskGBuffer: 14
+    - _StencilWriteMaskMV: 40
+    - _Step: 0.553
+    - _SupportDecals: 0
+    - _SurfaceType: 0
+    - _Tiling: 1
+    - _Tiling2: 9.96
+    - _TransparentBackfaceEnable: 0
+    - _TransparentCullMode: 2
+    - _TransparentDepthPostpassEnable: 0
+    - _TransparentDepthPrepassEnable: 0
+    - _TransparentSortPriority: 0
+    - _TransparentWritingMotionVec: 0
+    - _TransparentZWrite: 0
+    - _UseShadowThreshold: 0
+    - _Vertex: 0.42
+    - _VertexPower: 0.3
+    - _VertexScale: 5
+    - _VertexTime: 1
+    - _VorCellDensity: 6
+    - _VorColorMultip: 2500
+    - _VorPower: 2
+    - _VorScale: 31.27
+    - _VorSpeed: 1
+    - _VorStrength: 0.727
+    - _WaterSped: 0
+    - _ZTestDepthEqualForOpaque: 3
+    - _ZTestGBuffer: 3
+    - _ZTestTransparent: 4
+    - _ZWrite: 1
+    - _emission: 800
+    - _specular: 0.8
+    - _step: 0.02
+    - _step2: 1.41
+    - _tiling: -0.41
+    - _time: -3
+    - _timeM: 4
+    m_Colors:
+    - _BaseColor: {r: 0.19607845, g: 0.5921569, b: 0.8196079, a: 1}
+    - _BaseColorFoam: {r: 0.19607843, g: 0.59304404, b: 0.81960785, a: 1}
+    - _BaseSpeed: {r: 0, g: 0.2, b: 0, a: 0}
+    - _BaseTIling: {r: 16.53, g: 0.25, b: 0, a: 0}
+    - _Color1: {r: 0.022739422, g: 0.29463005, b: 0.6886792, a: 1}
+    - _Color2: {r: 0, g: 0.71347237, b: 1, a: 1}
+    - _DoubleSidedConstants: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FoamSpeed: {r: 0, g: 0.5, b: 0, a: 0}
+    - _FoamTIling: {r: 5, g: 0.71, b: 0, a: 0}
+    - _VorColor: {r: 0.54427737, g: 0.7332698, b: 0.764151, a: 1}
+    - _VorSpeed: {r: 0, g: 0.54, b: 0, a: 0}
+    - _VorTIling: {r: 10, g: 1, b: 0, a: 0}
+    - _WaterColor: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
