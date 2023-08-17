@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ArrowShadow
+  m_Controller: {fileID: 9100000, guid: eabc55e793dc02f40b6084555d54c9f3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ee61d7e3b89234146b33d9918ef862cb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 57db72b18345d11428d50242615d8223, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: efd5140da44157d47b3a733947a4330b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 53cbdfa06a6006a4388158a187eea1f0, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c90de31a62d14444f98521a681bcd35c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6893277ee4c661d40bdaa6685c3925b7, type: 2}
