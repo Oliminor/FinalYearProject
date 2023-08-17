@@ -1,0 +1,30 @@
+{
+  "itemDatabase": [
+    {
+      "index": 90000,
+      "name": "Melee Stance Activation",
+      "imagePath": "ItemIcons/MeleeStanceIcon",
+      "cooldown": 60,
+      "duration": 15,
+      "attributes": [
+        {
+          "attributeIndex": 3,
+          "mainAttributeValue": 12.0
+        },
+        {
+          "attributeIndex": 4,
+          "mainAttributeValue": 10.0
+        },
+        {
+          "attributeIndex": 5,
+          "mainAttributeValue": 50.0
+        }
+      ],
+      "description": [
+        "When switching to this stance Critical strike rate is increased by <color=#D76E20>{0}</color>% and lifesteal is increased by <color=#D76E20>{1}</color>%. Additionally, attack damage is increased by <color=#D76E20>{2}</color>% for {duration}s.",
+        "This buff can be stackable with other stance buffs.",
+        "This effect can only occur once every {cooldown}s."
+      ]
+    }
+  ]
+}

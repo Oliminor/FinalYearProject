@@ -1,0 +1,29 @@
+{
+  "skillTree": [
+    {
+      "skillIndex": 10000,
+      "pageIndex": 0,
+      "skillIsActivated": true
+    },
+    {
+      "skillIndex": 10001,
+      "pageIndex": 0,
+      "skillIsActivated": true
+    },
+    {
+      "skillIndex": 11000,
+      "pageIndex": 1,
+      "skillIsActivated": true
+    },
+    {
+      "skillIndex": 11001,
+      "pageIndex": 1,
+      "skillIsActivated": true
+    },
+    {
+      "skillIndex": 11002,
+      "pageIndex": 1,
+      "skillIsActivated": true
+    }
+  ]
+}

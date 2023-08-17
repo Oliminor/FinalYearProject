@@ -1,0 +1,33 @@
+    public class AttributeDetails
+    {
+        public int attributeIndex; // Attribute index for the automatic sorting, every index is an attribute for the main character
+        
+        1: Flat Attack
+        2. Critical damage% rate
+        3. Critical strike% rate
+        4. Lifesteal%
+        5. Damage%
+        6. Attack Speed
+        7. Defense
+        8. Mana
+        9. Stamina
+        10. health
+
+        public float attributeMainValue; // Main value of the attribute
+        public float attributeSecondaryValue; // Second value of the attribute (mainly for Gems with different rarity)
+    }
+
+
+    public class ItemData
+    {
+        public int index; // Item Index
+        public int skillTier; // Skill tier for the skill tree
+        public int linkToSkillIndex; // Link to skill index is for the passive skills which is connected to the active skill
+        public int skillCost; // Cost of the skill or buff
+        public float cooldown; // Cooldown of the skill or buff
+        public float duration; // Duration of the skill or buff
+        public string name; // Name of the skill or items
+        public string imagePath; // Image path (Icon)
+        public List<AttributeDetails> attributes; // attributes List (see above)
+        public List<string> description; // description for the skills or items
+    }

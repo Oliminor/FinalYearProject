@@ -1,0 +1,34 @@
+{
+  "itemDatabase": [
+    {
+      "index": 20000,
+      "name": "Red Damage Gem",
+      "imagePath": "ItemIcons/gem",
+      "cooldown": 30,
+      "duration": 15,
+      "buffTriggerIndex": 1,
+      "attributes": [
+        {
+          "attributeIndex": 1,
+          "mainAttributeValue": 12.0,
+          "secondaryAttributeValue": 2.0
+        },
+        {
+          "attributeIndex": 5,
+          "mainAttributeValue": 6.0,
+          "secondaryAttributeValue": 1.0
+        },
+        {
+          "attributeIndex": 2,
+          "mainAttributeValue": 20.0,
+          "secondaryAttributeValue": 5.0
+        }
+      ],
+      "description": [
+        "Damage +<color=#D76E20>{0}</color>",
+        "(2) +<color=#D76E20>{1}</color> Damage %.",
+        "(4) When Base Attacks hit opponents, player obtaints +<color=#D76E20>{2}</color> Critical Damage % for {duration}s\nThis effect can occur once every {cooldown}s."
+      ]
+    }
+  ]
+}

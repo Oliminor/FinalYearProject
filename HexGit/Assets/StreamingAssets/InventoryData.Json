@@ -1,0 +1,24 @@
+{
+    "inventory": [
+        {
+            "index": 20000,
+            "quantity": 4,
+            "rarity": 0
+        },
+        {
+            "index": 20000,
+            "quantity": 6,
+            "rarity": 1
+        },
+        {
+            "index": 20000,
+            "quantity": 4,
+            "rarity": 2
+        },
+        {
+            "index": 20000,
+            "quantity": 4,
+            "rarity": 4
+        }
+    ]
+}

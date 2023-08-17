@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b29082f801794954fa1adb78611d4dcc, type: 3}
+  m_Name: PlaugeGuardWeather
+  m_EditorClassIdentifier: 
+  weatherSettings:
+    sunDirection: {x: 14, y: -6}
+    luxIntensity: 2000
+    intensityMultiplier: 0.5
+    temperatureKelvin: 4800
+    cloudDensityMultiplier: 0.25
+    cloudShapeFactor: 0.6
+    filterColor: {r: 1, g: 0.68235296, b: 0.8666667, a: 1}

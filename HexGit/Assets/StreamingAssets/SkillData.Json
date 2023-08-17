@@ -1,0 +1,104 @@
+{
+  "itemDatabase": [
+    {
+      "index": 10000,
+      "skillTier": 0,
+      "skillCost": 15,
+      "cooldown": 0.0,
+      "name": "Fists of the Survivor",
+      "imagePath": "ItemIcons/FistWeaponIcon",
+      "attributes": [
+        {
+          "mainAttributeValue": 80.0
+        },
+        {
+          "mainAttributeValue": 80.0
+        },
+        {
+          "mainAttributeValue": 35.0
+        },
+        {
+          "mainAttributeValue": 120.0
+        }
+      ],
+      "description": [
+        "Skill: Basic Attack \nCost: <color=#D76E20>{skillCost}</color> stamina",
+        "Performs up to 4 punches",
+        "- 1 Hit Damage: <color=#D76E20>{0}</color>% \n- 2 Hit Damage: <color=#D76E20>{1}</color>% \n- 3 Hit Damage: <color=#D76E20>{2}</color>% \n- 4 Hit Damage: <color=#D76E20>{3}</color>% \n"
+      ]
+    },
+    {
+      "index": 10001,
+      "skillTier": 0,
+      "skillCost": 60,
+      "cooldown": 10.0,
+      "name": "Weapon Slam",
+      "imagePath": "ItemIcons/FistWeaponIcon",
+      "attributes": [
+        {
+          "mainAttributeValue": 320.0
+        }
+      ],
+      "description": [
+        "Skill: Skill Attack \nCost: <color=#D76E20>{skillCost}</color> stamina",
+        "Deal AOE damage in front of the player",
+        "Damage: <color=#D76E20>{0}</color>%"
+      ]
+    },
+    {
+      "index": 11000,
+      "skillTier": 0,
+      "skillCost": 10,
+      "cooldown": 1.0,
+      "name": "Soul Arrow",
+      "imagePath": "ItemIcons/FistWeaponIcon",
+      "attributes": [
+        {
+          "mainAttributeValue": 60.0
+        }
+      ],
+      "description": [
+        "Skill: Basic Attack \nCost: <color=#D76E20>{skillCost}</color> mana",
+        "Shoots a projectile",
+        "Damage: <color=#D76E20>{0}</color>%"
+      ]
+    },
+    {
+      "index": 11001,
+      "skillTier": 0,
+      "skillCost": 35,
+      "cooldown": 15.0,
+      "duration": 12.0,
+      "name": "Crossbow Sentry",
+      "imagePath": "ItemIcons/FistWeaponIcon",
+      "attributes": [
+        {
+          "mainAttributeValue": 25.0
+        }
+      ],
+      "description": [
+        "Skill: Skill Attack \nCost: <color=#D76E20>{skillCost}</color> mana",
+        "Summons a sentry crossbow which attacks the closest nerby enemy for {duration} seconds",
+        "Damage: <color=#D76E20>{0}</color>%"
+      ]
+    },
+    {
+      "index": 11002,
+      "skillTier": 0,
+      "skillCost": 60,
+      "cooldown": 5.0,
+      "name": "Piercing Spear",
+      "imagePath": "ItemIcons/FistWeaponIcon",
+      "attributes": [
+        {
+          "mainAttributeValue": 500.0
+        }
+      ],
+      "description": [
+        "Skill: Skill Attack \nCost: <color=#D76E20>{skillCost}</color> mana",
+        "Summons a spear that pierce through up to 10 enemies",
+        "Damage: <color=#D76E20>{0}</color>%"
+      ]
+    }
+  ]
+}

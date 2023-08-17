@@ -1,0 +1,724 @@
+{
+    "stanceGem": [
+        {
+            "pageIndex": 0,
+            "slotIndex": 0,
+            "gemIndex": 20000,
+            "gemRarity": 3
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 1,
+            "gemIndex": 20000,
+            "gemRarity": 3
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 2,
+            "gemIndex": 20000,
+            "gemRarity": 3
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 3,
+            "gemIndex": 20000,
+            "gemRarity": 3
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 4,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 5,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 6,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 7,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 8,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 9,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 10,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 11,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 12,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 13,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 14,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 15,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 16,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 17,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 18,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 19,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 20,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 21,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 22,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 23,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 24,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 25,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 26,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 27,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 28,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 0,
+            "slotIndex": 29,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 0,
+            "gemIndex": 20000,
+            "gemRarity": 4
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 1,
+            "gemIndex": 20000,
+            "gemRarity": 4
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 2,
+            "gemIndex": 20000,
+            "gemRarity": 4
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 3,
+            "gemIndex": 20000,
+            "gemRarity": 4
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 4,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 5,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 6,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 7,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 8,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 9,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 10,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 11,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 12,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 13,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 14,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 15,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 16,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 17,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 18,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 19,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 20,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 21,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 22,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 23,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 24,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 25,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 26,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 27,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 28,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 1,
+            "slotIndex": 29,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 0,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 1,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 2,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 3,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 4,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 5,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 6,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 7,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 8,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 9,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 10,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 11,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 12,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 13,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 14,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 15,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 16,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 17,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 18,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 19,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 20,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 21,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 22,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 23,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 24,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 25,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 26,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 27,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 28,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 2,
+            "slotIndex": 29,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 0,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 1,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 2,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 3,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 4,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 5,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 6,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 7,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 8,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 9,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 10,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 11,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 12,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 13,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 14,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 15,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 16,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 17,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 18,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 19,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 20,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 21,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 22,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 23,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 24,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 25,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 26,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 27,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 28,
+            "gemIndex": 0,
+            "gemRarity": 0
+        },
+        {
+            "pageIndex": 3,
+            "slotIndex": 29,
+            "gemIndex": 0,
+            "gemRarity": 0
+        }
+    ]
+}
